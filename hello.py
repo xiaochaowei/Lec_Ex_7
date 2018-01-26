@@ -1,2 +1,2 @@
-print("my name is Tina's friends")
+print("my name is Tina(yuanting) friends")
 
